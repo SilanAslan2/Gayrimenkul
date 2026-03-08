@@ -11,7 +11,7 @@ include("baglanti.php");
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Batı İstanbul Gayrimenkul</title>
+<title>Silan Gayrimenkul</title>
 
 <style>
 body{
@@ -301,4 +301,5 @@ function filtre(tur){document.querySelectorAll(".ilan").forEach(i=>i.style.displ
 
 
 </body>
+
 </html>
